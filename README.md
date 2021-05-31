@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aerys-cmd
-- 👀 I’m interested in ResAPI's
+- 👀 I’m interested in RestAPI's
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
