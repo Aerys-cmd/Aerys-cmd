@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Aerys-cmd
-- 👀 I’m interested in RestAPI's
-- 🌱 I’m currently learning React and Angular
-- 📫 You can reach me on recepobut72@gmail.com email address 
+-  Hi, I’m @Aerys-cmd
+-  I’m interested in RestAPI's
+-  I’m currently learning and applying Microservices Architecture.
+-  You can reach me on recepobut72@gmail.com email address 
 -  Frameworks that i use are .Net Core, .Net Framework, Codeigniter 3, Angular,
 -  Asp.Net MVC, Asp.Net WebAPI, Asp.Net Core MVC, Asp.Net Core WebAPI, RazorPages, Flask,
 -  Windows Forms etc.
