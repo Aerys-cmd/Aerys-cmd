@@ -33,4 +33,4 @@ Current focus is clean architecture in .NET 9/10, domain-driven design, and dist
 
 ---
 
-📍 Istanbul &nbsp;|&nbsp; 🏢 Adesso Turkey &nbsp;|&nbsp; 🐦 [@recepmht](https://twitter.com/recepmht) &nbsp;|&nbsp; ✉️ recepobut72@gmail.com
+📍 Istanbul &nbsp;|&nbsp; 🏢 Adesso Turkey &nbsp;|&nbsp; ✉️ recepobut72@gmail.com
