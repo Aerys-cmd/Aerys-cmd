@@ -1,6 +1,6 @@
 ## Recep Obut
 
-Senior .NET / C# engineer based in Istanbul, working at **Adesso Turkey**.
+.NET / C# engineer based in Istanbul, working at **Adesso Turkey**.
 
 I build backend systems, multi-tenant SaaS platforms, and — occasionally — database engines from scratch.  
 Current focus is clean architecture in .NET 9/10, domain-driven design, and distributed systems patterns.
