@@ -21,7 +21,6 @@ Current focus is clean architecture in .NET 9/10, domain-driven design, and dist
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**sqlity**](https://github.com/Aerys-cmd/sqlity) | Embedded database engine built from scratch — custom storage engine, slotted-page layout, SQL execution | C#, .NET 10 |
-| [**qrity**](https://github.com/Aerys-cmd/qrity) | Multi-tenant restaurant QR menu SaaS — DDD, Paddle billing, .NET Aspire, advisory locks | C#, PostgreSQL, Tailwind |
 | [**2gether-watch**](https://github.com/Aerys-cmd/2gether-watch) · [live ↗](https://2gether-watch.lunavex.com) | Synchronized watch-party app — WebRTC, screen share, live chat | ASP.NET Core 9, Alpine.js |
 | [**blogify**](https://github.com/Aerys-cmd/blogify) | Blog platform orchestrated with .NET Aspire, Docker, Traefik | C#, .NET Aspire |
 
