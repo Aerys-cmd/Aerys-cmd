@@ -22,7 +22,7 @@ Current focus is clean architecture in .NET 9/10, domain-driven design, and dist
 |---------|-------------|-------|
 | [**sqlity**](https://github.com/Aerys-cmd/sqlity) | Embedded database engine built from scratch — custom storage engine, slotted-page layout, SQL execution | C#, .NET 10 |
 | [**2gether-watch**](https://github.com/Aerys-cmd/2gether-watch) · [live ↗](https://2gether-watch.lunavex.com) | Synchronized watch-party app — WebRTC, screen share, live chat | ASP.NET Core 9, Alpine.js |
-| [**blogify**](https://github.com/Aerys-cmd/blogify) · [live ↗](https://blog.lunavex.com) | Blog platform orchestrated with .NET Aspire, Docker, Traefik | C#, .NET Aspire |
+| [**blogify**](https://github.com/Aerys-cmd/blogify) · [live ↗](https://blogify.com.tr) | Blog platform orchestrated with .NET Aspire, Docker, Traefik | C#, .NET Aspire |
 
 ---
 
